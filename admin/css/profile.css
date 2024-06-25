@@ -1,0 +1,49 @@
+section{
+    min-height: 500px;
+}
+
+.card {
+    width: 70%;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 25px;
+    padding: 10px 40px 20px 40px;
+    margin-left: 15%;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px purple;
+}
+
+.row {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.Button_row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Button {
+    text-decoration: none;
+    margin-left: 0%;
+    padding: 8px 15px;
+    color: purple;
+    border-radius: 10px;
+    border: 1px solid purple;
+}
+
+.Button:hover {
+    box-shadow: 1px 1px 5px purple;
+    border: 1.5px solid purple;
+    font-weight: bold;
+}
+
+hr {
+    height: 2px;
+    background-color: purple;
+    box-shadow: 0px 0px 10px purple;
+}
+
+b {
+    color: purple;
+}

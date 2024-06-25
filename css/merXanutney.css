@@ -1,0 +1,38 @@
+.xanutner {
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  min-height: 500px;
+
+}
+.cotainer {
+  width: 100%;
+  display: flex; 
+  margin-top: 15px;
+
+}
+.hascener {
+width: 22%;
+padding: 15px;
+border-radius: 20px;
+margin-top: 20px;
+box-shadow: black 5px 5px 10px;
+}
+p {
+  line-height: 25px;
+}
+.hasce2 {
+  margin-top: 30px;
+}
+.qartez {
+  width: 76%;
+  margin-left: 4%;
+  height: 310px;
+  margin-top: 20px;
+}
+.qartez iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}

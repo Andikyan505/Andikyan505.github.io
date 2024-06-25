@@ -1,0 +1,15 @@
+.ashxatanq {
+  width: 80%;
+  min-height: 700px;
+  margin: auto;
+  margin-top: 30px;
+}
+hr {
+  height: 1px;
+  width: 14.5%;
+  background-color: red;
+  border: none;
+}
+.ashxatanq p{
+  font-size: 20px; 
+} 
